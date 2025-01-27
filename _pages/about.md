@@ -22,6 +22,6 @@ Hey there! I am a first-year Master's student in [Statistics & Data Science](htt
 
 I am actively looking for part-time jobs and summer 2025 internships, particularly in data-related positions within the financial services, pharmaceuticals, and biotechnology industries. My resume can be found [here](./assets/Mary_Wu_resume.pdf). If you know of any opportunities or would like to connect, please feel free to reach out to me! 
 
-In my free time, I am either [dancing](https://youtube.com/playlist?list=PLTtwOyXty5KrBILfYxhCcgQkDOWCKc7O4&si=J7n9ydpSPswdH8dg), [playing the piano](https://youtube.com/playlist?list=PLTtwOyXty5Ko6EUtSugRxdR_8hsD30817&si=z_aScmD2JXHh8V3i) or [arranging pop songs]{https://musescore.com/user/36638079} (perfect pitch comes in handy here). 
+In my free time, I am either [dancing](https://youtube.com/playlist?list=PLTtwOyXty5KrBILfYxhCcgQkDOWCKc7O4&si=J7n9ydpSPswdH8dg), [playing the piano](https://youtube.com/playlist?list=PLTtwOyXty5Ko6EUtSugRxdR_8hsD30817&si=z_aScmD2JXHh8V3i) or [arranging pop songs](https://musescore.com/user/36638079) (perfect pitch comes in handy here). 
 
 Feel free to contact me about statistics, music, fun facts, or anything that you want to share. Together, we can uncover more truths about the world :)
