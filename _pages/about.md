@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    2006 Sheridan Rd
-    Evanston, IL 60208
-    [marywu2026@u.northwestern.edu](mailto:marywu2026@u.northwestern.edu&nbsp;)
+    <p>2006 Sheridan Rd</p>
+    <p>Evanston, IL 60208</p>
+    <p>marywu2026[at]u[dot]northwestern[dot]edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,4 +26,4 @@ In my free time, I am either [dancing](https://youtube.com/playlist?list=PLTtwOy
 
 Feel free to contact me about statistics, music, or anything that you want to share. Together, we can uncover more truths about the world :)
 
-📣: I am actively looking for **part-time jobs** and **summer 2025 internships** in data-related positions, ideally within financial services, pharmaceuticals, and biotechnology. My resume can be found [here](./pages/Mary_Wu_resume.pdf). If you know of any opportunities or would like to connect, please feel free to reach out to me! 
+📣: I am actively looking for **part-time jobs** and **summer 2025 internships** in data-related positions, ideally within financial services, pharmaceuticals, and biotechnology. My resume can be found [here](./_pages/Mary_Wu_resume.pdf). If you know of any opportunities or would like to connect, please feel free to reach out to me! 
