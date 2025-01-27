@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MS Student @ Northwestern University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>marywu2026@u.northwestern.edu</p>
     <p>2006 Sheridan Rd</p>
     <p>Evanston, IL 60208</p>
 
@@ -17,8 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I am a first-year Master's student in [Statistics & Data Science]{https://statistics.northwestern.edu/} at Northwestern University. I hold a Bachelor of Arts (B.A.) in Economics & Mathematics from New York University, with a minor in Music. I'm particularly interested in how advancements in technology could transform business decision-making, and I'm currently working under the supervision of [Prof. Bernard Yeung]{https://www.sustech.edu.cn/en/faculties/bernardyyeung.html} to investigate the impact of AI-driven technologies on firms' foreign expansion. Most recently, I am interested in exploring Bayesian statistics and am honored to have been instructed by [Prof. Martin Tanner]{https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html}, who sparked my interest in the field and will be missed by many. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am actively looking for part-time jobs and summer 2025 internships, particularly in data-related positions within the financial services, pharmaceuticals, and biotechnology industries. My resume can be found [here]. If you know of any opportunities or would like to connect, please feel free to reach out to me! 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I am either [dancing]{https://youtube.com/playlist?list=PLTtwOyXty5KrBILfYxhCcgQkDOWCKc7O4&si=J7n9ydpSPswdH8dg}, [playing the piano]{https://youtube.com/playlist?list=PLTtwOyXty5Ko6EUtSugRxdR_8hsD30817&si=z_aScmD2JXHh8V3i}, or [arranging pop songs]{https://musescore.com/user/36638079} (perfect pitch comes in handy here). 
+
+Feel free to contact me about statistics, music, fun facts, or anything that you want to share. Together, we can uncover more truths about the world :)
