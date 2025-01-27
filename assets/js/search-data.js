@@ -382,12 +382,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+    },{id: "news-i-attended-the-2024-china-international-conference-in-finance",
+          title: 'I attended the 2024 China International Conference in Finance.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-made-my-personal-website-sparkles",
+          section: "News",},{id: "news-i-made-my-personal-website-sparkles",
           title: 'I made my personal website! :sparkles:',
           description: "",
           section: "News",},{id: "news-i-graduated-from-new-york-university",
