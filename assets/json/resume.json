@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Mary (Qinxin) Wu",
+    "name": "Qinxin (Mary) Wu",
     "email": "marywu2026@u.northwestern.edu",
     "url": "https://marywu-12.github.io/",
     "location": {
@@ -18,49 +18,63 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "url": "",
+      "area": "Statistics & Data Science",
+      "studyType": "Master of Science",
+      "startDate": "2024-9",
+      "endDate": "Present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
+    }
+      {
+      "institution": "New York University",
+      "location": "New York, NY",
+      "url": "",
+      "area": "Economics & Mathematics",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2020-9",
+      "endDate": "2024-5",
+      "score": "10",
+      "courses": [""]
+    }
+  ],
+  "experience": [
+    {
+      "name": "China International Capital Corporation (CICC)",
+      "location": "Beijing, China",
+      "position": "Asset Custody Intern",
+      "url": "",
+      "startDate": "2023-6",
+      "endDate": "2023-8",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "National Merit Scholarship Finalist",
+      "date": "2020",
+      "awarder": "National Merit Scholarship Corporation",
+      "url": "https://www.baldwinschool.org/news-story?pk=1077209",
+      "summary": ""
+    }
+    {
+      "title": "Certificate of Distinction, UKMT Intermediate Mathematical Olympiad and Kangaroo",
+      "date": "2017",
+      "awarder": "United Kingdom Mathematics Trust",
+      "url": "",
+      "summary": ""
+    }
+    {
+      "title": "Gold Certificate, Best in Year, Best in School, UKMT Intermediate Mathematical Challenge",
+      "date": "2017",
+      "awarder": "United Kingdom Mathematics Trust",
+      "url": "",
+      "highlights": ["Invited to UKMT Summer School for Girls at Balliol College, Oxford (selected by lottery from top 1.5% of scorers)"]
     }
   ],
   "certificates": [
