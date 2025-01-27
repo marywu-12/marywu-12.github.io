@@ -382,14 +382,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-attended-the-2024-china-international-conference-in-finance",
+    },{id: "news-i-graduated-from-new-york-university",
+          title: 'I graduated from New York University.',
+          description: "",
+          section: "News",},{id: "news-i-attended-the-2024-china-international-conference-in-finance",
           title: 'I attended the 2024 China International Conference in Finance.',
           description: "",
           section: "News",},{id: "news-i-made-my-personal-website-sparkles",
           title: 'I made my personal website! :sparkles:',
-          description: "",
-          section: "News",},{id: "news-i-graduated-from-new-york-university",
-          title: 'I graduated from New York University.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
