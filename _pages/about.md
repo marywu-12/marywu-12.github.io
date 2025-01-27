@@ -26,4 +26,4 @@ In my free time, I am either [dancing](https://youtube.com/playlist?list=PLTtwOy
 
 Feel free to contact me about statistics, music, or anything that you want to share. Together, we can uncover more truths about the world :)
 
-📣: I am actively looking for **part-time jobs** and **summer 2025 internships** in data-related positions, ideally within financial services, pharmaceuticals, and biotechnology. My resume can be found [here](./blob/main/_pages/Mary_Wu_resume.pdf). If you know of any opportunities or would like to connect, please feel free to reach out to me! 
+📣: I am actively looking for **part-time jobs** and **summer 2025 internships** in data-related positions, ideally within financial services, pharmaceuticals, and biotechnology. My resume can be found [here](Mary_Wu_resume.pdf). If you know of any opportunities or would like to connect, please feel free to reach out to me! 
