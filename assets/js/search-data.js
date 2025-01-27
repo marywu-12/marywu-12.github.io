@@ -382,16 +382,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-i-made-my-personal-website-sparkles",
           title: 'I made my personal website! :sparkles:',
+          description: "",
+          section: "News",},{id: "news-i-graduated-from-new-york-university",
+          title: 'I graduated from New York University.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
