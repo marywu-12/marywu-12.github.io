@@ -13,9 +13,18 @@ profile:
     <p>Evanston, IL 60208</p>
     <p>marywu2026[at]u[dot]northwestern[dot]edu</p>
 
-news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+news: 
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I am a first-year Master's student in [Statistics & Data Science](https://statistics.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts (B.A.) in Economics & Mathematics from [New York University](https://www.nyu.edu/), with a minor in Music. 
