@@ -25,19 +25,19 @@
       "url": "",
       "area": "Statistics & Data Science",
       "studyType": "Master of Science",
-      "startDate": "2024-9",
+      "startDate": "2024-09-01",
       "endDate": "Present",
       "score": "10",
       "courses": [""]
-    }
+    },
       {
       "institution": "New York University",
       "location": "New York, NY",
       "url": "",
       "area": "Economics & Mathematics",
       "studyType": "Bachelor of Arts",
-      "startDate": "2020-9",
-      "endDate": "2024-5",
+      "startDate": "2020-09-01",
+      "endDate": "2024-05-15",
       "score": "10",
       "courses": [""]
     }
@@ -48,8 +48,8 @@
       "location": "Beijing, China",
       "position": "Asset Custody Intern",
       "url": "",
-      "startDate": "2023-6",
-      "endDate": "2023-8",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-31",
       "summary": "",
       "highlights": [""]
     }
@@ -61,14 +61,14 @@
       "awarder": "National Merit Scholarship Corporation",
       "url": "https://www.baldwinschool.org/news-story?pk=1077209",
       "summary": ""
-    }
+    },
     {
       "title": "Certificate of Distinction, UKMT Intermediate Mathematical Olympiad and Kangaroo",
       "date": "2017",
       "awarder": "United Kingdom Mathematics Trust",
       "url": "",
       "summary": ""
-    }
+    },
     {
       "title": "Gold Certificate, Best in Year, Best in School, UKMT Intermediate Mathematical Challenge",
       "date": "2017",
