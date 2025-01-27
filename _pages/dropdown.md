@@ -1,8 +1,8 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false
 nav_order: 8
-dropdown: false
+dropdown: true
 permalink: /menu/
 ---
