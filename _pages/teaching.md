@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+permalink: /courses/
+title: courses
+description: Select courses that I've taken and enjoyed. Feel free to use my notes as references! 
+nav: true
 nav_order: 6
 ---
 
