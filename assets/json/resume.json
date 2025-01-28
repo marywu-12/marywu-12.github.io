@@ -26,7 +26,7 @@
       "studyType": "Master of Science",
       "startDate": "2024-09-01",
       "endDate": "Present",
-      "score": "10",
+      "score": "10"
     },
       {
       "institution": "New York University",
@@ -35,7 +35,7 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2020-09-01",
       "endDate": "2024-05-15",
-      "score": "10",
+      "score": "10"
     }
   ],
   "experience": [
@@ -67,7 +67,7 @@
       "title": "Gold Certificate, Best in Year, Best in School, UKMT Intermediate Mathematical Challenge",
       "date": "2017",
       "awarder": "United Kingdom Mathematics Trust",
-      "url": "https://marywu-12.github.io/assets/pdf/2.1.%20UKMT.pdf"
+      "url": "https://marywu-12.github.io/assets/pdf/2.1.%20UKMT.pdf",
       "summary": ["Invited to UKMT Summer School for Girls at Balliol College, Oxford (selected by lottery from top 1.5% of scorers)"]
     }
   ],
@@ -78,9 +78,9 @@
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
-        "R",
+        "R"
       ]
-    }
+    },
     {
       "name": "Tools & Frameworks",
       "level": "Master",
@@ -89,7 +89,7 @@
         "LaTeX",
         "R Markdown",
         "Jupyter Notebook",
-        "GitHub",
+        "GitHub"
       ]
     }
   ],
@@ -103,7 +103,7 @@
       "language": "Chinese",
       "fluency": "Native",
       "icon": ""
-    }
+    },
     {
       "language": "Spanish",
       "fluency": "Classroom study",
