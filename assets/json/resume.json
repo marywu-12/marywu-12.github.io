@@ -22,24 +22,20 @@
     {
       "institution": "Northwestern University",
       "location": "Evanston, IL",
-      "url": "",
       "area": "Statistics & Data Science",
       "studyType": "Master of Science",
       "startDate": "2024-09-01",
       "endDate": "Present",
       "score": "10",
-      "courses": ""
     },
       {
       "institution": "New York University",
       "location": "New York, NY",
-      "url": "",
       "area": "Economics & Mathematics",
       "studyType": "Bachelor of Arts",
       "startDate": "2020-09-01",
       "endDate": "2024-05-15",
       "score": "10",
-      "courses": ""
     }
   ],
   "experience": [
@@ -123,7 +119,7 @@
     {
       "name": "2024 US General Elections Prediction",
       "summary": "Correctly predicted the 2024 presidential election outcome using Bayesian simulation models, with large polling datasets cleaned and analyzed in Python",
-      "startDate": "2024-11",
+      "startDate": "2024-11-01",
       "url": "https://github.com/marywu-12/US_Elections_2024"
     }
   ]
