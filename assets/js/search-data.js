@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-courses",
+          title: "courses",
+          description: "Select courses that I&#39;ve taken and enjoyed. Feel free to use my notes as references!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/courses/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
