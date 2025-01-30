@@ -3,9 +3,9 @@ layout: page
 title: projects
 permalink: /projects/
 description: 
-nav: true
+nav: false
 nav_order: 3
-display_categories: academic
+display_categories: [academic, work]
 horizontal: false
 ---
 
