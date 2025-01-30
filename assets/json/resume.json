@@ -38,6 +38,14 @@
       "score": "10"
     }
   ],
+  "projects": [
+    {
+      "name": "2024 US General Elections Prediction",
+      "summary": "Correctly predicted the 2024 presidential election outcome using Bayesian simulation models, with large polling datasets cleaned and analyzed in Python",
+      "startDate": "2024-11-01",
+      "url": "https://github.com/marywu-12/US_Elections_2024"
+    }
+  ],
   "experience": [
     {
       "name": "China International Capital Corporation (CICC)",
@@ -113,14 +121,6 @@
       "language": "Korean",
       "fluency": "Basic",
       "icon": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "2024 US General Elections Prediction",
-      "summary": "Correctly predicted the 2024 presidential election outcome using Bayesian simulation models, with large polling datasets cleaned and analyzed in Python",
-      "startDate": "2024-11-01",
-      "url": "https://github.com/marywu-12/US_Elections_2024"
     }
   ]
 }
