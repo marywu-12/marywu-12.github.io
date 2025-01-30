@@ -14,4 +14,4 @@ nav_order: 4
 ## Economics
 
 ## Miscellaneous
-CORE-UA 306. Life Science: Brain and Behavior (Fall 2020, NYU)
+CORE-UA 306: Life Science: Brain and Behavior (Fall 2020, NYU)
