@@ -26,6 +26,7 @@
       "studyType": "Master of Science",
       "startDate": "2024-09-01",
       "endDate": "Present",
+      "url": "https://www.northwestern.edu/"
       "score": "10"
     },
       {
@@ -35,6 +36,7 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2020-09-01",
       "endDate": "2024-05-15",
+      "url": "https://www.nyu.edu/",
       "score": "10"
     }
   ],
@@ -46,7 +48,7 @@
       "url": "https://github.com/marywu-12/US_Elections_2024"
     }
   ],
-  "experience": [
+  "work": [
     {
       "name": "China International Capital Corporation (CICC)",
       "position": "Asset Custody Intern",
