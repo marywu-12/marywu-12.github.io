@@ -455,7 +455,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/212029227", "_blank");
+          window.open("https://www.linkedin.com/in/mary-wu-212029227", "_blank");
         },
       },{
         id: 'social-spotify',
