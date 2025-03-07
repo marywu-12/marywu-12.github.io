@@ -312,17 +312,6 @@ ninja.data = [{
           window.location.href = "/blog/2020/twitter/";
         
       },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/math/";
-        
-      },
     },{id: "news-i-graduated-from-new-york-university",
           title: 'I graduated from New York University.',
           description: "",
