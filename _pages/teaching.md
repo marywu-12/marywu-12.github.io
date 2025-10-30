@@ -3,7 +3,7 @@ layout: page
 permalink: /courses/
 title: courses
 description: Select courses that I've taken and enjoyed. Feel free to use my notes as references! 
-nav: true
+nav: false
 nav_order: 4
 ---
 
