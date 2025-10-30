@@ -29,7 +29,7 @@ latest_posts:
 
 Hello! I am a second-year Master's student in [Statistics & Data Science](https://statistics.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts in Economics & Mathematics from [New York University](https://www.nyu.edu/), with a minor in Music. I grew up in Beijing, China, and spent 2 years in Cardiff, UK before coming to the US for high school.
 
-I am broadly interested in Bayesian approaches to solve problems in public health and the social sciences. Currently, I'm applying Bayesian hierarchical models to reconstruct sunspot numbers (SSN) under the guidance of [Prof. Wenxin Jiang](https://statistics.northwestern.edu/people/faculty/wenxin-jiang.html). I was also fortunate to be taught by [Prof. Martin Tanner](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html), who sparked my interest in Bayesian statistics.
+I am broadly interested in Bayesian approaches to solve problems in public health and the social sciences. Currently, I'm applying Bayesian hierarchical models to reconstruct sunspot numbers (SSN) under the guidance of [Prof. Wenxin Jiang](https://statistics.northwestern.edu/people/faculty/wenxin-jiang.html). I was fortunate to be taught by [Prof. Martin Tanner](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html), who sparked my interest in Bayesian statistics.
 
 Outside of academics, I am involved with [CareMatch](https://marywu-12.github.io/carematch/), an NYC-based, student-found public health startup aiming to bridge the caregiving gaps for elderly and vulnerable individuals. Keep an eye out for our biweekly blog posts!
 
