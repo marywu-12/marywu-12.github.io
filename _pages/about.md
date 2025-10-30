@@ -27,12 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a first-year Master's student in [Statistics & Data Science](https://statistics.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts (B.A.) in Economics & Mathematics from [New York University](https://www.nyu.edu/), with a minor in Music. 
+Hello! I am a second-year Master's student in [Statistics & Data Science](https://statistics.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts (B.A.) in Economics & Mathematics from [New York University](https://www.nyu.edu/), with a minor in Music. I grew up in Beijing, China, and spent a total of 2 years in Cardiff, UK before coming to the US in 10th Grade. 
 
-I'm particularly interested in how technological advancements could transform business decision-making, and I'm currently working under the supervision of [Prof. Bernard Yeung](https://www.sustech.edu.cn/en/faculties/bernardyyeung.html) to investigate the impact of AI-driven technologies on firms' foreign expansion. Most recently, I am exploring Bayesian statistics under the guidance of [Prof. Wenxin Jiang](https://statistics.northwestern.edu/people/faculty/wenxin-jiang.html), and I am honored to have been instructed by [Prof. Martin Tanner](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html), who sparked my interest in the field. 
+I am broadly interested in Bayesian approaches to solve problems in public health and the social sciences. Currently, I'm developing Bayesian hierarchical models for sunspot number (SSN) reconstruction under the guidance of [Prof. Wenxin Jiang](https://statistics.northwestern.edu/people/faculty/wenxin-jiang.html). I am honored to have been instructed by [Prof. Martin Tanner](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html), who sparked my interest in Bayesian statistics. 
 
-In my free time, I am either [dancing](https://youtube.com/playlist?list=PLTtwOyXty5KrBILfYxhCcgQkDOWCKc7O4&si=J7n9ydpSPswdH8dg), [playing the piano](https://youtube.com/playlist?list=PLTtwOyXty5Ko6EUtSugRxdR_8hsD30817&si=z_aScmD2JXHh8V3i) or [arranging pop songs](https://musescore.com/user/36638079). 
+Outside of academics, I am involved with [CareMatch](https://marywu-12.github.io/carematch/), an NYC-based, student-found public health startup aiming to bridge the caregiving gaps for elderly and vulnerable individuals through a digital platform that connects families to trained, trusted caregivers. Keep an eye out for our biweekly blog posts! 
 
-Feel free to contact me about statistics, music, or anything that you want to share. Together, we can uncover more truths about the world :)
-
-📣: I am actively looking for **summer 2025 internships** in data-related positions, especially within financial services, pharmaceuticals, and biotechnology. My resume can be found [here](https://marywu-12.github.io/assets/pdf/Mary_Wu_resume.pdf). If you know of any opportunities or would like to connect, please feel free to reach out to me! 
+My CV can be found [here](https://marywu-12.github.io/assets/pdf/Mary_Wu_resume.pdf). 
