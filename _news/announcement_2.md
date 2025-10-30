@@ -6,4 +6,4 @@ related_posts: false
 nav: false
 ---
 
-I attended the [2024 China International Conference in Finance](https://www.cicfconf.org/past/cicf2024/). 
+I attended the [2024 China International Conference in Finance](https://www.cicfconf.org/past/cicf2024/).

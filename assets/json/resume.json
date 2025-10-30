@@ -29,7 +29,7 @@
       "url": "https://www.northwestern.edu/",
       "score": "10"
     },
-      {
+    {
       "institution": "New York University",
       "location": "New York, NY",
       "area": "Economics & Mathematics",
@@ -86,21 +86,13 @@
       "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "R"
-      ]
+      "keywords": ["Python", "R"]
     },
     {
       "name": "Tools & Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "LaTeX",
-        "R Markdown",
-        "Jupyter Notebook",
-        "GitHub"
-      ]
+      "keywords": ["LaTeX", "R Markdown", "Jupyter Notebook", "GitHub"]
     }
   ],
   "languages": [

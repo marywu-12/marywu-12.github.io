@@ -6,4 +6,4 @@ related_posts: false
 nav: false
 ---
 
-I graduated from New York University. 
+I graduated from New York University.
