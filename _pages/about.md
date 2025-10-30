@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a second-year Master's student in [Statistics & Data Science](https://statistics.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts (B.A.) in Economics & Mathematics from [New York University](https://www.nyu.edu/), with a minor in Music. I grew up in Beijing, China, and spent a total of 2 years in Cardiff, UK before coming to the US in 10th Grade.
+Hello! I am a second-year Master's student in [Statistics & Data Science](https://statistics.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts in Economics & Mathematics from [New York University](https://www.nyu.edu/), with a minor in Music. I grew up in Beijing, China, and spent 2 years in Cardiff, UK before coming to the US for high school.
 
-I am broadly interested in Bayesian approaches to solve problems in public health and the social sciences. Currently, I'm developing Bayesian hierarchical models for sunspot number (SSN) reconstruction under the guidance of [Prof. Wenxin Jiang](https://statistics.northwestern.edu/people/faculty/wenxin-jiang.html). I am honored to have been instructed by [Prof. Martin Tanner](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html), who sparked my interest in Bayesian statistics.
+I am broadly interested in Bayesian approaches to solve problems in public health and the social sciences. Currently, I'm applying Bayesian hierarchical models to reconstruct sunspot numbers (SSN) under the guidance of [Prof. Wenxin Jiang](https://statistics.northwestern.edu/people/faculty/wenxin-jiang.html). I am honored to have been instructed by [Prof. Martin Tanner](https://statistics.northwestern.edu/people/in-memoriam/martin-tanner.html), who sparked my interest in Bayesian statistics.
 
 Outside of academics, I am involved with [CareMatch](https://marywu-12.github.io/carematch/), an NYC-based, student-found public health startup aiming to bridge the caregiving gaps for elderly and vulnerable individuals through a digital platform that connects families to trained, trusted caregivers. Keep an eye out for our biweekly blog posts!
 
