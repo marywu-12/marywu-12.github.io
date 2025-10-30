@@ -33,4 +33,4 @@ I am broadly interested in Bayesian approaches to solve problems in public healt
 
 Outside of academics, I am involved with [CareMatch](https://marywu-12.github.io/carematch/), an NYC-based, student-found public health startup aiming to bridge the caregiving gaps for elderly and vulnerable individuals through a digital platform that connects families to trained, trusted caregivers. Keep an eye out for our biweekly blog posts! 
 
-My CV can be found [here](https://marywu-12.github.io/assets/pdf/Mary_Wu_resume.pdf). 
+My CV can be found [here](https://marywu-12.github.io/assets/pdf/Mary_Wu_CV.pdf). 
