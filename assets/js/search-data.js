@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-courses",
-          title: "courses",
-          description: "Select courses that I&#39;ve taken and enjoyed. Feel free to use my notes as references!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/courses/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -224,72 +210,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/audios/";
         
       },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/videos/";
-        
-      },
-    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
-      
-        title: "displaying beautiful tables with Bootstrap Tables",
-      
-      description: "an example of how to use Bootstrap Tables",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tables/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-giscus-comments",
-      
-        title: "a post with giscus comments",
-      
-      description: "an example of a blog post with giscus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/giscus-comments/";
-        
-      },
-    },{id: "post-a-post-with-redirect",
-      
-        title: "a post with redirect",
-      
-      description: "you can also redirect to assets like pdf",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/assets/pdf/example_pdf.pdf";
-        
-      },
-    },{id: "post-a-post-with-diagrams",
-      
-        title: "a post with diagrams",
-      
-      description: "an example of a blog post with diagrams",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/diagrams/";
-        
-      },
     },{id: "post-a-distill-style-blog-post",
       
         title: "a distill-style blog post",
@@ -299,17 +219,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/distill/";
-        
-      },
-    },{id: "post-a-post-with-twitter",
-      
-        title: "a post with twitter",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/twitter/";
         
       },
     },{id: "news-i-graduated-from-new-york-university",
