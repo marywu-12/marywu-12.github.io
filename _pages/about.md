@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2006 Sheridan Rd</p>
-    <p>Evanston, IL 60208</p>
+    <p>1915 Maple Ave</p>
+    <p>Evanston, IL 60201</p>
     <p>marywu2026[at]u[dot]northwestern[dot]edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
