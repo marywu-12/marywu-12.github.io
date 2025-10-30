@@ -304,13 +304,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/mary-wu-212029227", "_blank");
         },
       },{
-        id: 'social-spotify',
-        title: 'Spotify',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://open.spotify.com/user/3o7b87f3o5iq0jhby30090ax7", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
